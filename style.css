@@ -36,9 +36,7 @@ body{
     transition: 2s;
 }
 button:hover{
-    background-color: rgba(38, 0, 209, 0.7);
-    color:black;
-    width: 9%;
+    background-color:transparent;
 }
 .def{
     display: flex;
